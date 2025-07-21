@@ -1,4 +1,4 @@
-# Socket Programming in C (CNO Track) — 10-Week Self-Study Syllabus
+# Socket Programming in C (CNO Track)   10-Week Self-Study Syllabus
 
 Welcome! This repository contains my self-study journey to master CNO-relevant socket/network programming using C, with labs, code, and reflective write-ups.
 
@@ -40,10 +40,10 @@ Build foundational and applied skills in C network/socket programming, focusing 
 | 4    | UDP Sockets & Datagram Communication              | [LAB4](./LAB4)       |
 | 5    | Handling Multiple Clients (select(), Threads)     | [LAB5](./LAB5)       |
 | 6    | Protocol Design & Implementation                  | [LAB6](./LAB6)       |
-| 7    | Security & Exploitation—Finding and Fixing Bugs   | [LAB7](./LAB7)       |
+| 7    | Security & Exploitation Finding and Fixing Bugs   | [LAB7](./LAB7)       |
 | 8    | Network Traffic Analysis (Wireshark/tcpdump)      | [LAB8](./LAB8)       |
-| 9    | Advanced Sockets—Non-blocking, Socket Options     | [LAB9](./LAB9)       |
-| 10   | Capstone Project—Full-Featured Network Tool       | [CAPSTONE](./CAPSTONE) |
+| 9    | Advanced Sockets Non-blocking, Socket Options     | [LAB9](./LAB9)       |
+| 10   | Capstone Project Full-Featured Network Tool       | [CAPSTONE](./CAPSTONE) |
 
 ---
 
@@ -186,9 +186,9 @@ Each lab folder will include:
 
 ---
 
-### **Week 7: Security & Exploitation—Finding and Fixing Bugs**
+### **Week 7: Security & Exploitation Finding and Fixing Bugs**
 
-- **Topic:** Security flaws in C network code—finding and fixing them.
+- **Topic:** Security flaws in C network code finding and fixing them.
 - **Learning Objectives:**
   - Spot classic CNO-relevant bugs (buffer overflows, unchecked input).
   - Write an exploit PoC, patch the vulnerability.
@@ -222,7 +222,7 @@ Each lab folder will include:
 
 ---
 
-### **Week 9: Advanced Sockets—Non-blocking, Socket Options**
+### **Week 9: Advanced Sockets Non-blocking, Socket Options**
 
 - **Topic:** Non-blocking servers, advanced tuning.
 - **Learning Objectives:**
@@ -240,7 +240,7 @@ Each lab folder will include:
 
 ---
 
-### **Week 10: Capstone Project—Full-Featured Network Tool**
+### **Week 10: Capstone Project Full-Featured Network Tool**
 
 - **Topic:** Integrating everything: a robust, secure, multi-client C network application.
 - **Learning Objectives:**
@@ -253,7 +253,7 @@ Each lab folder will include:
   - Identified/fixed at least one vulnerability or design flaw.
 - **Lab Assignment:**
   - Build a multi-client TCP tool with a custom protocol.
-  - Include README: architecture diagram, protocol spec, test logs, and a mini “CTF”—document a vulnerability and how you fixed it.
+  - Include README: architecture diagram, protocol spec, test logs, and a mini “CTF” document a vulnerability and how you fixed it.
 
 ---
 
