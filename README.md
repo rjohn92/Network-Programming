@@ -32,18 +32,18 @@ Build foundational and applied skills in C network/socket programming, focusing 
 
 ## 🗓️ Weekly Schedule
 
-| Week | Topic                                             | Assignment Folder     |
-|------|---------------------------------------------------|----------------------|
-| 1    | Sockets & Networking Concepts                     | [LAB1](./LAB1)       |
-| 2    | TCP Echo Server & Client                          | [LAB2](./LAB2)       |
-| 3    | Error Handling, Logging, & Debugging              | [LAB3](./LAB3)       |
-| 4    | UDP Sockets & Datagram Communication              | [LAB4](./LAB4)       |
-| 5    | Handling Multiple Clients (select(), Threads)     | [LAB5](./LAB5)       |
-| 6    | Protocol Design & Implementation                  | [LAB6](./LAB6)       |
-| 7    | Security & Exploitation Finding and Fixing Bugs   | [LAB7](./LAB7)       |
-| 8    | Network Traffic Analysis (Wireshark/tcpdump)      | [LAB8](./LAB8)       |
-| 9    | Advanced Sockets Non-blocking, Socket Options     | [LAB9](./LAB9)       |
-| 10   | Capstone Project Full-Featured Network Tool       | [CAPSTONE](./CAPSTONE) |
+| Week | Topic                                             |
+|------|---------------------------------------------------|
+| 1    | Sockets & Networking Concepts                     |
+| 2    | TCP Echo Server & Client                          |
+| 3    | Error Handling, Logging, & Debugging              | 
+| 4    | UDP Sockets & Datagram Communication              | 
+| 5    | Handling Multiple Clients (select(), Threads)     | 
+| 6    | Protocol Design & Implementation                  | 
+| 7    | Security & Exploitation Finding and Fixing Bugs   |
+| 8    | Network Traffic Analysis (Wireshark/tcpdump)      | 
+| 9    | Advanced Sockets Non-blocking, Socket Options     | 
+| 10   | Capstone Project Full-Featured Network Tool       | 
 
 ---
 
@@ -256,14 +256,3 @@ Each lab folder will include:
   - Include README: architecture diagram, protocol spec, test logs, and a mini “CTF” document a vulnerability and how you fixed it.
 
 ---
-
-## 📓 Progress Log
-
-*I’ll update this section with links to my lab write-ups and weekly summaries as I go!*
-
-- Week 1: [LAB1 Writeup](./LAB1/lab1_writeup.md)
-- Week 2: [LAB2 Writeup](./LAB2/lab2_writeup.md)
-- ...
-
----
-
