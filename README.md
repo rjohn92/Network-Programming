@@ -20,16 +20,6 @@ Build foundational and applied skills in C network/socket programming, focusing 
 
 ---
 
-## 🗂️ Table of Contents
-
-- [Course Overview](#course-overview)
-- [Weekly Schedule](https://github.com/rjohn92/Network-Programming/blob/main/README.md#%EF%B8%8F-weekly-schedule)
-- [Resources](https://github.com/rjohn92/Network-Programming/blob/main/README.md#%EF%B8%8F-weekly-schedule)
-- [Labs](#labs)
-- [Progress Log](#progress-log)
-
----
-
 ## 🗓️ Weekly Schedule
 
 | Week | Topic                                             |
