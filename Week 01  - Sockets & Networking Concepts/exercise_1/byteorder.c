@@ -2,7 +2,6 @@
 #include <stdint.h>
 
 static void dump_bytes(const void *ptr, size_t size) {
-    // cast ptr to const unsigned char*
     const unsigned char *byte_ptr = (const unsigned char *)ptr;
     for (size_t i = 0; i < size; i++) {
         printf("%02x ", byte_ptr[i]);
